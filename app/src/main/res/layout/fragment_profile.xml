@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_main"
+    tools:context=".presentation.screens.profile.ProfileFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/cantarell"
+        android:gravity="center"
+        android:text="@string/profile"
+        android:textColor="@color/dark_blue"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+
+</FrameLayout>
